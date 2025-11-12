@@ -76,13 +76,15 @@ reviews:
         📋 USER-DEFINED EVALUATION CRITERIA:
         ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-        Review all documentation, comments, and README files for:
-        - Grammar and spelling accuracy
-        - Clarity and professionalism
-        - Proper technical writing style
-        - Consistent terminology usage
+        Evaluate documentation quality across the project:
+        - README completeness, clarity, and quick start guide
+        - API documentation accuracy and examples
+        - Code comments usefulness and JSDoc/docstring coverage
+        - Usage examples and tutorials
+        - Installation and setup instructions
+        - Architecture and design documentation
         
-        Provide a grade 1-10 for overall English quality with specific examples of issues found.
+        List missing or unclear sections with specific recommendations for improvement.
 
         ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
         END OF CRITERIA
